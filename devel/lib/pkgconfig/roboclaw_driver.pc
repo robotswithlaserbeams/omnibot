@@ -1,0 +1,8 @@
+prefix=/home/lyle/catkin_ws/devel
+
+Name: roboclaw_driver
+Description: Description of roboclaw_driver
+Version: 0.0.0
+Cflags: -I/home/lyle/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

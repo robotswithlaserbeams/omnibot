@@ -1,0 +1,2 @@
+cdyn_base_control:roboclaw_driver:teleop_twist_joy
+-DCATKIN_DEVEL_PREFIX=/home/lyle/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lyle/catkin_ws/install -G Unix Makefiles
